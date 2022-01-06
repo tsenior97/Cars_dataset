@@ -1,0 +1,1240 @@
+<ol class="ais-Hits-list"><li class="ais-Hits-item vehicle-card"><div class="vc-content">
+                            <div class="vc-header">
+                                <a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                    <h3 class="vc-title">Chevrolet Spark 1.0 LS 5dr</h3>
+                                    <p class="vc-subtitle">2014 - 17,824 miles - BP63NXZ - Cannock</p>
+                                </a>
+                                <i class="vc-favourite icon icon-heart-empty" data-stock-id="60095"></i>
+                            </div>
+                          <div class="vc-img-info-column">
+                            <div class="list-left-cont">
+                                <div class="vc-img-cont">
+                                    <a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                    <div class="gallery-icon-cont">
+                                        <i class="gallery-icon icon icon-camera"></i><span class="gallery-count">9</span>
+                                    </div>
+                                </a>
+                                <div class="imgs-carousel owl-carousel owl-loaded"><div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 4374px;"><div class="owl-item active" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_29122021_IMG_1656.JPG" alt="Vehicle image" src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_29122021_IMG_1656.JPG" style="opacity: 1;">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_29122021_IMG_1657.JPG" alt="Vehicle image" src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_29122021_IMG_1657.JPG" style="opacity: 1;">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_29122021_IMG_1658.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_29122021_IMG_1659.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_29122021_IMG_1660.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_29122021_IMG_1661.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_29122021_IMG_1662.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_29122021_IMG_1663.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_29122021_IMG_1664.JPG" alt="Vehicle image">
+                                    </a></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev disabled"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+                                    
+                                </div>
+                                <div class="vc-pricing">
+                                    <div class="base-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                            <div class="main-price">
+                                                <span>£4499</span>
+                                            </div>
+                                              <div class="save-price">
+                                                <span>save £4721 on price when new</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                   <div class="finance-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                            <div class="monthly-price">
+                                                <span>£94.44</span> per month
+                                            </div>
+                                            <div class="deposit-apr">
+                                                <span>0</span> deposit,
+                                                <span>9.9%</span>
+                                                &nbsp;APR
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                             <div class="vc-specs">
+                                <ul class="vc-spec-list">
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                            <i class="icon icon-gearstick"></i>
+                                            <div>
+                                                <span class="spec-label">Transmission:</span>
+                                                <span class="spec-value">Manual</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                            <i class="icon icon-seat"></i>
+                                            <div>
+                                                <span class="spec-label">Seats:</span>
+                                                <span class="spec-value">5</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                     <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                            <i class="icon icon-fuel-type"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel type:</span>
+                                                <span class="spec-value">Petrol</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                            <i class="icon icon-fuel-economy"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel Economy:</span>
+                                                <span class="spec-value">55 mpg</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                            <i class="icon icon-insurence"></i>
+                                            <div>
+                                                <span class="spec-label">Insurance group:</span>
+                                                <span class="spec-value">4E</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                            <i class="icon icon-co2"></i>
+                                            <div>
+                                                <span class="spec-label">CO2:</span>
+                                                <span class="spec-value">119g/km</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                            <i class="icon icon-miles"></i>
+                                            <div>
+                                                <span class="spec-label">Mileage:</span>
+                                                <span class="spec-value">17,824</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/chevrolet-spark-60095">
+                                            <i class="icon icon-year"></i>
+                                            <div>
+                                                <span class="spec-label">Year:</span>
+                                                <span class="spec-value">2014</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                              </div>
+                          </div>
+                    </div></li><li class="ais-Hits-item vehicle-card"><div class="vc-content">
+                            <div class="vc-header">
+                                <a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                    <h3 class="vc-title">Toyota Aygo 1.0 VVT-i Move 5dr</h3>
+                                    <p class="vc-subtitle">2014 - 51,658 miles - AF64HZA - Sutton in Ashfield</p>
+                                </a>
+                                <i class="vc-favourite icon icon-heart-empty" data-stock-id="59053"></i>
+                            </div>
+                          <div class="vc-img-info-column">
+                            <div class="list-left-cont">
+                                <div class="vc-img-cont">
+                                    <a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                    <div class="gallery-icon-cont">
+                                        <i class="gallery-icon icon icon-camera"></i><span class="gallery-count">9</span>
+                                    </div>
+                                </a>
+                                <div class="imgs-carousel owl-carousel owl-loaded"><div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 4374px;"><div class="owl-item active" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_27122021_AF64HZA%20%281%29.JPG" alt="Vehicle image" src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_27122021_AF64HZA%20%281%29.JPG" style="opacity: 1;">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_27122021_AF64HZA%20%282%29.JPG" alt="Vehicle image" src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_27122021_AF64HZA%20%282%29.JPG" style="opacity: 1;">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_27122021_AF64HZA%20%283%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_27122021_AF64HZA%20%284%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_27122021_AF64HZA%20%285%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_27122021_AF64HZA%20%286%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_27122021_AF64HZA%20%287%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_27122021_AF64HZA%20%288%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_27122021_AF64HZA%20%289%29.JPG" alt="Vehicle image">
+                                    </a></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev disabled"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+                                    
+                                </div>
+                                <div class="vc-pricing">
+                                    <div class="base-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                            <div class="main-price">
+                                                <span>£5099</span>
+                                            </div>
+                                              <div class="save-price">
+                                                <span>save £5466 on price when new</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                   <div class="finance-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                            <div class="monthly-price">
+                                                <span>£107.03</span> per month
+                                            </div>
+                                            <div class="deposit-apr">
+                                                <span>0</span> deposit,
+                                                <span>9.9%</span>
+                                                &nbsp;APR
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                             <div class="vc-specs">
+                                <ul class="vc-spec-list">
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                            <i class="icon icon-gearstick"></i>
+                                            <div>
+                                                <span class="spec-label">Transmission:</span>
+                                                <span class="spec-value">Manual</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                            <i class="icon icon-seat"></i>
+                                            <div>
+                                                <span class="spec-label">Seats:</span>
+                                                <span class="spec-value">4</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                     <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                            <i class="icon icon-fuel-type"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel type:</span>
+                                                <span class="spec-value">Petrol</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                            <i class="icon icon-fuel-economy"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel Economy:</span>
+                                                <span class="spec-value">65 mpg</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                            <i class="icon icon-insurence"></i>
+                                            <div>
+                                                <span class="spec-label">Insurance group:</span>
+                                                <span class="spec-value">3E</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                            <i class="icon icon-co2"></i>
+                                            <div>
+                                                <span class="spec-label">CO2:</span>
+                                                <span class="spec-value">99g/km</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                            <i class="icon icon-miles"></i>
+                                            <div>
+                                                <span class="spec-label">Mileage:</span>
+                                                <span class="spec-value">51,658</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/toyota-aygo-59053">
+                                            <i class="icon icon-year"></i>
+                                            <div>
+                                                <span class="spec-label">Year:</span>
+                                                <span class="spec-value">2014</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                              </div>
+                          </div>
+                    </div></li><li class="ais-Hits-item vehicle-card"><div class="vc-content">
+                            <div class="vc-header">
+                                <a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                    <h3 class="vc-title">Skoda Citigo 1.0 60 SE 3dr</h3>
+                                    <p class="vc-subtitle">2014 - 48,599 miles - YB64HVT - Sutton in Ashfield</p>
+                                </a>
+                                <i class="vc-favourite icon icon-heart-empty" data-stock-id="57541"></i>
+                            </div>
+                          <div class="vc-img-info-column">
+                            <div class="list-left-cont">
+                                <div class="vc-img-cont">
+                                    <a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                    <div class="gallery-icon-cont">
+                                        <i class="gallery-icon icon icon-camera"></i><span class="gallery-count">9</span>
+                                    </div>
+                                </a>
+                                <div class="imgs-carousel owl-carousel owl-loaded"><div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 4374px;"><div class="owl-item active" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_20122021_YB64HVT%20%281%29.JPG" alt="Vehicle image" src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_20122021_YB64HVT%20%281%29.JPG" style="opacity: 1;">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_20122021_YB64HVT%20%282%29.JPG" alt="Vehicle image" src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_20122021_YB64HVT%20%282%29.JPG" style="opacity: 1;">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_20122021_YB64HVT%20%283%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_20122021_YB64HVT%20%284%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_20122021_YB64HVT%20%285%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_20122021_YB64HVT%20%286%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_20122021_YB64HVT%20%287%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_20122021_YB64HVT%20%288%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_20122021_YB64HVT%20%289%29.JPG" alt="Vehicle image">
+                                    </a></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev disabled"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+                                    
+                                </div>
+                                <div class="vc-pricing">
+                                    <div class="base-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                            <div class="main-price">
+                                                <span>£5099</span>
+                                            </div>
+                                              <div class="save-price">
+                                                <span>save £3906 on price when new</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                   <div class="finance-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                            <div class="monthly-price">
+                                                <span>£107.03</span> per month
+                                            </div>
+                                            <div class="deposit-apr">
+                                                <span>0</span> deposit,
+                                                <span>9.9%</span>
+                                                &nbsp;APR
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                             <div class="vc-specs">
+                                <ul class="vc-spec-list">
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                            <i class="icon icon-gearstick"></i>
+                                            <div>
+                                                <span class="spec-label">Transmission:</span>
+                                                <span class="spec-value">Manual</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                            <i class="icon icon-seat"></i>
+                                            <div>
+                                                <span class="spec-label">Seats:</span>
+                                                <span class="spec-value">4</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                     <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                            <i class="icon icon-fuel-type"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel type:</span>
+                                                <span class="spec-value">Petrol</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                            <i class="icon icon-fuel-economy"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel Economy:</span>
+                                                <span class="spec-value">62 mpg</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                            <i class="icon icon-insurence"></i>
+                                            <div>
+                                                <span class="spec-label">Insurance group:</span>
+                                                <span class="spec-value">1E</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                            <i class="icon icon-co2"></i>
+                                            <div>
+                                                <span class="spec-label">CO2:</span>
+                                                <span class="spec-value">105g/km</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                            <i class="icon icon-miles"></i>
+                                            <div>
+                                                <span class="spec-label">Mileage:</span>
+                                                <span class="spec-value">48,599</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/skoda-citigo-57541">
+                                            <i class="icon icon-year"></i>
+                                            <div>
+                                                <span class="spec-label">Year:</span>
+                                                <span class="spec-value">2014</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                              </div>
+                          </div>
+                    </div></li><li class="ais-Hits-item vehicle-card"><div class="vc-content">
+                            <div class="vc-header">
+                                <a href="https://www.availablecar.com/used-cars/fiat-panda-62890">
+                                    <h3 class="vc-title">Fiat Panda 1.2 Pop 5dr</h3>
+                                    <p class="vc-subtitle">2014 - 25,250 miles - NA64YJC - Castle Donington</p>
+                                </a>
+                                <i class="vc-favourite icon icon-heart-empty" data-stock-id="62890"></i>
+                            </div>
+                          <div class="vc-img-info-column">
+                            <div class="list-left-cont">
+                                <div class="vc-img-cont">
+                                    <div class="no-pics-cont">
+                                    <a href="https://www.availablecar.com/used-cars/fiat-panda-62890">
+                                        <img src="/used-cars/images/placeholder-image-left.jpg" alt="Placeholder image">
+                                        <img src="/used-cars/images/placeholder-image-right.jpg" alt="Placeholder image">
+                                    </a>
+                                </div>
+                                    
+                                </div>
+                                <div class="vc-pricing">
+                                    <div class="base-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-panda-62890">
+                                            <div class="main-price">
+                                                <span>£5499</span>
+                                            </div>
+                                              <div class="save-price">
+                                                <span>save £3541 on price when new</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                   <div class="finance-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-panda-62890">
+                                            <div class="monthly-price">
+                                                <span>£115.43</span> per month
+                                            </div>
+                                            <div class="deposit-apr">
+                                                <span>0</span> deposit,
+                                                <span>9.9%</span>
+                                                &nbsp;APR
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                             <div class="vc-specs">
+                                <ul class="vc-spec-list">
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-panda-62890">
+                                            <i class="icon icon-gearstick"></i>
+                                            <div>
+                                                <span class="spec-label">Transmission:</span>
+                                                <span class="spec-value">Manual</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-panda-62890">
+                                            <i class="icon icon-seat"></i>
+                                            <div>
+                                                <span class="spec-label">Seats:</span>
+                                                <span class="spec-value">4</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                     <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-panda-62890">
+                                            <i class="icon icon-fuel-type"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel type:</span>
+                                                <span class="spec-value">Petrol</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-panda-62890">
+                                            <i class="icon icon-fuel-economy"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel Economy:</span>
+                                                <span class="spec-value">54 mpg</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-panda-62890">
+                                            <i class="icon icon-insurence"></i>
+                                            <div>
+                                                <span class="spec-label">Insurance group:</span>
+                                                <span class="spec-value">4U</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-panda-62890">
+                                            <i class="icon icon-co2"></i>
+                                            <div>
+                                                <span class="spec-label">CO2:</span>
+                                                <span class="spec-value">120g/km</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-panda-62890">
+                                            <i class="icon icon-miles"></i>
+                                            <div>
+                                                <span class="spec-label">Mileage:</span>
+                                                <span class="spec-value">25,250</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-panda-62890">
+                                            <i class="icon icon-year"></i>
+                                            <div>
+                                                <span class="spec-label">Year:</span>
+                                                <span class="spec-value">2014</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                              </div>
+                          </div>
+                    </div></li><li class="ais-Hits-item vehicle-card"><div class="vc-content">
+                            <div class="vc-header">
+                                <a href="https://www.availablecar.com/used-cars/fiat-500-62876">
+                                    <h3 class="vc-title">Fiat 500 1.2 Colour Therapy 3dr</h3>
+                                    <p class="vc-subtitle">2015 - 39,838 miles - MT15KZY - Leeds</p>
+                                </a>
+                                <i class="vc-favourite icon icon-heart-empty" data-stock-id="62876"></i>
+                            </div>
+                          <div class="vc-img-info-column">
+                            <div class="list-left-cont">
+                                <div class="vc-img-cont">
+                                    <div class="no-pics-cont">
+                                    <a href="https://www.availablecar.com/used-cars/fiat-500-62876">
+                                        <img src="/used-cars/images/placeholder-image-left.jpg" alt="Placeholder image">
+                                        <img src="/used-cars/images/placeholder-image-right.jpg" alt="Placeholder image">
+                                    </a>
+                                </div>
+                                    
+                                </div>
+                                <div class="vc-pricing">
+                                    <div class="base-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-500-62876">
+                                            <div class="main-price">
+                                                <span>£5999</span>
+                                            </div>
+                                              <div class="save-price">
+                                                <span>save £5166 on price when new</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                   <div class="finance-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-500-62876">
+                                            <div class="monthly-price">
+                                                <span>£125.92</span> per month
+                                            </div>
+                                            <div class="deposit-apr">
+                                                <span>0</span> deposit,
+                                                <span>9.9%</span>
+                                                &nbsp;APR
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                             <div class="vc-specs">
+                                <ul class="vc-spec-list">
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-500-62876">
+                                            <i class="icon icon-gearstick"></i>
+                                            <div>
+                                                <span class="spec-label">Transmission:</span>
+                                                <span class="spec-value">Manual</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-500-62876">
+                                            <i class="icon icon-seat"></i>
+                                            <div>
+                                                <span class="spec-label">Seats:</span>
+                                                <span class="spec-value">4</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                     <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-500-62876">
+                                            <i class="icon icon-fuel-type"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel type:</span>
+                                                <span class="spec-value">Petrol</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-500-62876">
+                                            <i class="icon icon-fuel-economy"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel Economy:</span>
+                                                <span class="spec-value">58 mpg</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-500-62876">
+                                            <i class="icon icon-insurence"></i>
+                                            <div>
+                                                <span class="spec-label">Insurance group:</span>
+                                                <span class="spec-value">7U</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-500-62876">
+                                            <i class="icon icon-co2"></i>
+                                            <div>
+                                                <span class="spec-label">CO2:</span>
+                                                <span class="spec-value">113g/km</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-500-62876">
+                                            <i class="icon icon-miles"></i>
+                                            <div>
+                                                <span class="spec-label">Mileage:</span>
+                                                <span class="spec-value">39,838</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/fiat-500-62876">
+                                            <i class="icon icon-year"></i>
+                                            <div>
+                                                <span class="spec-label">Year:</span>
+                                                <span class="spec-value">2015</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                              </div>
+                          </div>
+                    </div></li><li class="ais-Hits-item vehicle-card"><div class="vc-content">
+                            <div class="vc-header">
+                                <a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                    <h3 class="vc-title">Mitsubishi Mirage 1.2 Attivo 5dr</h3>
+                                    <p class="vc-subtitle">2016 - 44,872 miles - WF16BSU - Leeds</p>
+                                </a>
+                                <i class="vc-favourite icon icon-heart-empty" data-stock-id="60108"></i>
+                            </div>
+                          <div class="vc-img-info-column">
+                            <div class="list-left-cont">
+                                <div class="vc-img-cont">
+                                    <a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                    <div class="gallery-icon-cont">
+                                        <i class="gallery-icon icon icon-camera"></i><span class="gallery-count">9</span>
+                                    </div>
+                                </a>
+                                <div class="imgs-carousel owl-carousel owl-loaded"><div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 4374px;"><div class="owl-item active" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_412022_IMG_6600.JPG" alt="Vehicle image" src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_412022_IMG_6600.JPG" style="opacity: 1;">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_412022_IMG_6601.JPG" alt="Vehicle image" src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_412022_IMG_6601.JPG" style="opacity: 1;">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_412022_IMG_6602.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_412022_IMG_6609.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_412022_IMG_6610.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_412022_IMG_6612.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_412022_IMG_6614.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_412022_IMG_6615.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_412022_IMG_6616.JPG" alt="Vehicle image">
+                                    </a></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev disabled"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+                                    
+                                </div>
+                                <div class="vc-pricing">
+                                    <div class="base-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                            <div class="main-price">
+                                                <span>£5999</span>
+                                            </div>
+                                              <div class="save-price">
+                                                <span>save £5000 on price when new</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                   <div class="finance-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                            <div class="monthly-price">
+                                                <span>£125.92</span> per month
+                                            </div>
+                                            <div class="deposit-apr">
+                                                <span>0</span> deposit,
+                                                <span>9.9%</span>
+                                                &nbsp;APR
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                             <div class="vc-specs">
+                                <ul class="vc-spec-list">
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                            <i class="icon icon-gearstick"></i>
+                                            <div>
+                                                <span class="spec-label">Transmission:</span>
+                                                <span class="spec-value">Manual</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                            <i class="icon icon-seat"></i>
+                                            <div>
+                                                <span class="spec-label">Seats:</span>
+                                                <span class="spec-value">5</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                     <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                            <i class="icon icon-fuel-type"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel type:</span>
+                                                <span class="spec-value">Petrol</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                            <i class="icon icon-fuel-economy"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel Economy:</span>
+                                                <span class="spec-value">65 mpg</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                            <i class="icon icon-insurence"></i>
+                                            <div>
+                                                <span class="spec-label">Insurance group:</span>
+                                                <span class="spec-value">18D</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                            <i class="icon icon-co2"></i>
+                                            <div>
+                                                <span class="spec-label">CO2:</span>
+                                                <span class="spec-value">100g/km</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                            <i class="icon icon-miles"></i>
+                                            <div>
+                                                <span class="spec-label">Mileage:</span>
+                                                <span class="spec-value">44,872</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/mitsubishi-mirage-60108">
+                                            <i class="icon icon-year"></i>
+                                            <div>
+                                                <span class="spec-label">Year:</span>
+                                                <span class="spec-value">2016</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                              </div>
+                          </div>
+                    </div></li><li class="ais-Hits-item vehicle-card vehicle-banner"><div class="vehicle-search-banner"><img src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/banners/AC_web_ad_FINANCE.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVJMEDMW3BVOQ74RM%2F20220106%2Feu-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20220106T180427Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=604800&amp;X-Amz-Signature=82622565120d3ced3ca78ece422a14b70c088a17a4f329b950b792abf6db6f21" title="Flexible Finance"></div></li><li class="ais-Hits-item vehicle-card"><div class="vc-content">
+                            <div class="vc-header">
+                                <a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                    <h3 class="vc-title">Citroen C1 1.0 VTi Feel 3dr</h3>
+                                    <p class="vc-subtitle">2016 - 40,316 miles - YK16YVD - Leeds</p>
+                                </a>
+                                <i class="vc-favourite icon icon-heart-empty" data-stock-id="55303"></i>
+                            </div>
+                          <div class="vc-img-info-column">
+                            <div class="list-left-cont">
+                                <div class="vc-img-cont">
+                                    <a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                    <div class="gallery-icon-cont">
+                                        <i class="gallery-icon icon icon-camera"></i><span class="gallery-count">9</span>
+                                    </div>
+                                </a>
+                                <div class="imgs-carousel owl-carousel owl-loaded"><div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 4374px;"><div class="owl-item active" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_25112021_IMG_7731.JPG" alt="Vehicle image" src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_25112021_IMG_7731.JPG" style="opacity: 1;">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_25112021_IMG_7732.JPG" alt="Vehicle image" src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_25112021_IMG_7732.JPG" style="opacity: 1;">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_25112021_IMG_7733.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_25112021_IMG_7736.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_25112021_IMG_7737.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_25112021_IMG_7738.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_25112021_IMG_7739.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_25112021_IMG_7740.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_25112021_IMG_7741.JPG" alt="Vehicle image">
+                                    </a></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev disabled"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+                                    
+                                </div>
+                                <div class="vc-pricing">
+                                    <div class="base-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                            <div class="main-price">
+                                                <span>£6099</span>
+                                            </div>
+                                              <div class="save-price">
+                                                <span>save £3541 on price when new</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                   <div class="finance-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                            <div class="monthly-price">
+                                                <span>£128.02</span> per month
+                                            </div>
+                                            <div class="deposit-apr">
+                                                <span>0</span> deposit,
+                                                <span>9.9%</span>
+                                                &nbsp;APR
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                             <div class="vc-specs">
+                                <ul class="vc-spec-list">
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                            <i class="icon icon-gearstick"></i>
+                                            <div>
+                                                <span class="spec-label">Transmission:</span>
+                                                <span class="spec-value">Manual</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                            <i class="icon icon-seat"></i>
+                                            <div>
+                                                <span class="spec-label">Seats:</span>
+                                                <span class="spec-value">4</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                     <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                            <i class="icon icon-fuel-type"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel type:</span>
+                                                <span class="spec-value">Petrol</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                            <i class="icon icon-fuel-economy"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel Economy:</span>
+                                                <span class="spec-value">68 mpg</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                            <i class="icon icon-insurence"></i>
+                                            <div>
+                                                <span class="spec-label">Insurance group:</span>
+                                                <span class="spec-value">6E</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                            <i class="icon icon-co2"></i>
+                                            <div>
+                                                <span class="spec-label">CO2:</span>
+                                                <span class="spec-value">95g/km</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                            <i class="icon icon-miles"></i>
+                                            <div>
+                                                <span class="spec-label">Mileage:</span>
+                                                <span class="spec-value">40,316</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/citroen-c1-55303">
+                                            <i class="icon icon-year"></i>
+                                            <div>
+                                                <span class="spec-label">Year:</span>
+                                                <span class="spec-value">2016</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                              </div>
+                          </div>
+                    </div></li><li class="ais-Hits-item vehicle-card"><div class="vc-content">
+                            <div class="vc-header">
+                                <a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                    <h3 class="vc-title">Vauxhall Corsa 1.2 85 Sting 3dr</h3>
+                                    <p class="vc-subtitle">2013 - 36,706 miles - PJ63HUH - Sutton in Ashfield</p>
+                                </a>
+                                <i class="vc-favourite icon icon-heart-empty" data-stock-id="53075"></i>
+                            </div>
+                          <div class="vc-img-info-column">
+                            <div class="list-left-cont">
+                                <div class="vc-img-cont">
+                                    <a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                    <div class="gallery-icon-cont">
+                                        <i class="gallery-icon icon icon-camera"></i><span class="gallery-count">19</span>
+                                    </div>
+                                </a>
+                                <div class="imgs-carousel owl-carousel owl-loaded"><div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 9234px;"><div class="owl-item active" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_18112021_IMG_9297.JPG" alt="Vehicle image" src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_18112021_IMG_9297.JPG" style="opacity: 1;">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_18112021_IMG_9298.JPG" alt="Vehicle image" src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_18112021_IMG_9298.JPG" style="opacity: 1;">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_18112021_IMG_9299.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_18112021_IMG_9300.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_18112021_IMG_9301.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_18112021_IMG_9302.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_18112021_IMG_9303.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_18112021_IMG_9304.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_8122021_IMG_7591.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_8122021_IMG_7592.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_8122021_IMG_7593.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_8122021_IMG_7594.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_8122021_IMG_7595.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_8122021_IMG_7596.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_8122021_IMG_7597.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_8122021_IMG_7598.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_8122021_IMG_7599.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_8122021_IMG_7600.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_8122021_IMG_7601.JPG" alt="Vehicle image">
+                                    </a></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev disabled"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+                                    <div class="reserved-tag">
+                                        Reserved
+                                    </div>
+                                </div>
+                                <div class="vc-pricing">
+                                    <div class="base-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                            <div class="main-price">
+                                                <span>£6099</span>
+                                            </div>
+                                              <div class="save-price">
+                                                <span>save £3186 on price when new</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                   <div class="finance-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                            <div class="monthly-price">
+                                                <span>£128.02</span> per month
+                                            </div>
+                                            <div class="deposit-apr">
+                                                <span>0</span> deposit,
+                                                <span>9.9%</span>
+                                                &nbsp;APR
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                             <div class="vc-specs">
+                                <ul class="vc-spec-list">
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                            <i class="icon icon-gearstick"></i>
+                                            <div>
+                                                <span class="spec-label">Transmission:</span>
+                                                <span class="spec-value">Manual</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                            <i class="icon icon-seat"></i>
+                                            <div>
+                                                <span class="spec-label">Seats:</span>
+                                                <span class="spec-value">5</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                     <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                            <i class="icon icon-fuel-type"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel type:</span>
+                                                <span class="spec-value">Petrol</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                            <i class="icon icon-fuel-economy"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel Economy:</span>
+                                                <span class="spec-value">51 mpg</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                            <i class="icon icon-insurence"></i>
+                                            <div>
+                                                <span class="spec-label">Insurance group:</span>
+                                                <span class="spec-value">6E</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                            <i class="icon icon-co2"></i>
+                                            <div>
+                                                <span class="spec-label">CO2:</span>
+                                                <span class="spec-value">129g/km</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                            <i class="icon icon-miles"></i>
+                                            <div>
+                                                <span class="spec-label">Mileage:</span>
+                                                <span class="spec-value">36,706</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/vauxhall-corsa-53075">
+                                            <i class="icon icon-year"></i>
+                                            <div>
+                                                <span class="spec-label">Year:</span>
+                                                <span class="spec-value">2013</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                              </div>
+                          </div>
+                    </div></li><li class="ais-Hits-item vehicle-card"><div class="vc-content">
+                            <div class="vc-header">
+                                <a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                    <h3 class="vc-title">Ford Fiesta 1.25 Zetec 3dr</h3>
+                                    <p class="vc-subtitle">2014 - 62,452 miles - ND14CSO - Sutton in Ashfield</p>
+                                </a>
+                                <i class="vc-favourite icon icon-heart-empty" data-stock-id="62320"></i>
+                            </div>
+                          <div class="vc-img-info-column">
+                            <div class="list-left-cont">
+                                <div class="vc-img-cont">
+                                    <a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                    <div class="gallery-icon-cont">
+                                        <i class="gallery-icon icon icon-camera"></i><span class="gallery-count">9</span>
+                                    </div>
+                                </a>
+                                <div class="imgs-carousel owl-carousel owl-loaded"><div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 4374px;"><div class="owl-item active" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_31122021_nd14cso%20%281%29.JPG" alt="Vehicle image" src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_31122021_nd14cso%20%281%29.JPG" style="opacity: 1;">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_31122021_nd14cso%20%282%29.JPG" alt="Vehicle image" src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_31122021_nd14cso%20%282%29.JPG" style="opacity: 1;">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_31122021_nd14cso%20%283%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_31122021_nd14cso%20%284%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_31122021_nd14cso%20%285%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_31122021_nd14cso%20%286%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_31122021_nd14cso%20%287%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_31122021_nd14cso%20%288%29.JPG" alt="Vehicle image">
+                                    </a></div><div class="owl-item" style="width: 486px;"><a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                        <img class="owl-lazy" data-src="https://purchasing-production-files.s3.eu-west-2.amazonaws.com/jpg/thumbnail_31122021_nd14cso%20%289%29.JPG" alt="Vehicle image">
+                                    </a></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev disabled"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+                                    <div class="reserved-tag">
+                                        Reserved
+                                    </div>
+                                </div>
+                                <div class="vc-pricing">
+                                    <div class="base-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                            <div class="main-price">
+                                                <span>£6199</span>
+                                            </div>
+                                              <div class="save-price">
+                                                <span>save £6641 on price when new</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                   <div class="finance-pricing">
+                                        <a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                            <div class="monthly-price">
+                                                <span>£130.12</span> per month
+                                            </div>
+                                            <div class="deposit-apr">
+                                                <span>0</span> deposit,
+                                                <span>9.9%</span>
+                                                &nbsp;APR
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                             <div class="vc-specs">
+                                <ul class="vc-spec-list">
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                            <i class="icon icon-gearstick"></i>
+                                            <div>
+                                                <span class="spec-label">Transmission:</span>
+                                                <span class="spec-value">Manual</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                            <i class="icon icon-seat"></i>
+                                            <div>
+                                                <span class="spec-label">Seats:</span>
+                                                <span class="spec-value">5</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                     <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                            <i class="icon icon-fuel-type"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel type:</span>
+                                                <span class="spec-value">Petrol</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                            <i class="icon icon-fuel-economy"></i>
+                                            <div>
+                                                <span class="spec-label">Fuel Economy:</span>
+                                                <span class="spec-value">54 mpg</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                            <i class="icon icon-insurence"></i>
+                                            <div>
+                                                <span class="spec-label">Insurance group:</span>
+                                                <span class="spec-value">7E</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                            <i class="icon icon-co2"></i>
+                                            <div>
+                                                <span class="spec-label">CO2:</span>
+                                                <span class="spec-value">120g/km</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                            <i class="icon icon-miles"></i>
+                                            <div>
+                                                <span class="spec-label">Mileage:</span>
+                                                <span class="spec-value">62,452</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="vc-spec-item">
+                                        <a href="https://www.availablecar.com/used-cars/ford-fiesta-62320">
+                                            <i class="icon icon-year"></i>
+                                            <div>
+                                                <span class="spec-label">Year:</span>
+                                                <span class="spec-value">2014</span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                              </div>
+                          </div>
+                    </div></li></ol>
