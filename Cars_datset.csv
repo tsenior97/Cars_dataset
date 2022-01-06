@@ -1,4 +1,4 @@
-ID,Make,Model,Registration,Location,Colour,Transmission,Seats,Fuel Type,Fuel Economy (mpg),Insurance Group,CO2 (g/km),Milage,Year,Price (£),Price on New (£),Price per month (£),Reserved,URL
+ID,Make,Model,Registration,Location,Colour,Transmission,Seats,Fuel Type,Fuel Economy (mpg),Insurance Group,CO2 (g/km),Milage,Year,Price ,Price on New ,Price per month ,Reserved,URL
 1,Chevrolet,"Spark 1,0 LS 5dr",BP63 NXZ,Cannock,White,Manuel,5,Petrol,55,4E,119,17824,2014,4499,9220,94.44,FALSE,https://www.availablecar.com/used-cars/chevrolet-spark-60095
 2,Toyota,Aygo 1.0 VVt-I Move 5dr,AF64 HZA,Sutton in Ashfield,Blue,Manuel,4,Petrol,65,3E,99,51658,2014,5099,10565,107.03,FALSE,https://www.availablecar.com/used-cars/toyota-aygo-59053
 3,Skoda,Citigo 1.0 60 SE 3dr,YB64 HVT,Sutton in Ashfield,Red,Manuel,4,Petrol,62,1E,105,48599,2014,5099,36005,107.03,FALSE,https://www.availablecar.com/used-cars/skoda-citigo-57541
